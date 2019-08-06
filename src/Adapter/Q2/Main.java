@@ -2,8 +2,6 @@ package Adapter.Q2;
 
 import java.io.IOException;
 
-import Adapter.A2.FileProperties;
-
 public class Main {
     public static void main(String[] args) {
         FileIO f = new FileProperties();
